@@ -1,7 +1,7 @@
 # MiC
 Welcome members of OMG lab.
-You can use Git Bash to upload file, below are some instructions.
-
+You can use Git Bash to upload file, below are some instructions. /n
+URL: https://github.com/ugihiiygjkbggi/MiC.git
 
 
 ## A. 第一次把 repo 抓下來並上傳檔案
