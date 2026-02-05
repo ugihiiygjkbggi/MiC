@@ -11,7 +11,7 @@ cd "<repo-folder>"    # <repo-folder>就會是MiC的路徑
 git status
 git remote -v
 
-#放檔案到這個資料夾底下（可先測試）
+# 放檔案到這個資料夾底下（可先測試）
 
 mkdir test
 echo hello > test/hello.txt
