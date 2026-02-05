@@ -1,4 +1,4 @@
-# MiC
+# MiC Project
 Welcome members of OMG lab.
 You can use Git Bash to upload file, below are some instructions.
 
