@@ -15,8 +15,8 @@
 ## 2. 程式碼呈現 (Code)
 
 ### 行內程式碼 (Inline Code)
+語法是兩個\`程式碼\`符號
 用於文字間：`var myData = 10;`
-\兩個``符號
 ### 程式碼區塊 (Code Blocks)
 語法:\```csharp
 
