@@ -7,5 +7,7 @@
     int[] name = [1, 2, 3]; //集合運算式
     ```
 * List
-    1. \List<Type> name = new List<Type>()
+    ˋˋˋcsharp
+    1.  List<Type> name = new List<Type>()
+    ˋˋˋ
 * String
