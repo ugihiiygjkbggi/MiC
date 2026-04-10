@@ -7,7 +7,7 @@
     3. int[] name = [1, 2, 3]; //集合運算式
     ```
 * List
-   ``` csharp
+    ``` csharp
     1. List<Type> name = new List<Type>()
-    ˋˋˋ
+    
 * String
