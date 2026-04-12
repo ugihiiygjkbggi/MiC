@@ -11,3 +11,8 @@
     List<Type> name = new List<Type>()
     
 * String
+    ` string Name = "Anting";`
+* Delegate
+    ``` csharp
+    Func<T1,T2,...,T> name = ()=>{}//後面是lambda expression
+    ```
